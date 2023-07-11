@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGppMzQ2Z2ZncG45YjRuN3cxejd5OGM3cmd6MHlwNXFnMW9wbWJydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width="250"/>
+</div>
+
+### Hello there 👋, I'm Promise Oghenevwefe
+
+#### A Creative and forward-thinking Web Application Developer experienced at creating cutting edge web applications with complex requirements and versatile toolset. Skilled project manager, team leader and analytical problem-solver with top-notch organisational and project management skills. Passionate about mentoring and writing clean code with well managed technical debt.
 
 <!--
 **Myspheet/Myspheet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
