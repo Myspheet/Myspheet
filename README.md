@@ -37,6 +37,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Guessing Game in Python](https://promiseo.hashnode.dev/build-a-guessing-game-in-python)
+- [My First Article](https://promiseo.hashnode.dev/my-first-article)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
