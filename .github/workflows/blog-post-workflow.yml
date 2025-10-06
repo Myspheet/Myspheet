@@ -1,16 +1,15 @@
-name: Latest blog post workflow
+name: Latest Hashnode Posts
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 0 * * 0'
+    - cron: '0 0 */2 * *' # every 2 days at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update Hashnode Blog Posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
