@@ -1,59 +1,119 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGppMzQ2Z2ZncG45YjRuN3cxejd5OGM3cmd6MHlwNXFnMW9wbWJydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width="250"/>
+<!-- README.md for Promise Charles -->
+
+<h1 align="center">
+  👋 Hey, I'm <span style="color:#4ECDC4;">Promise Charles</span>
+</h1>
+
+<p align="center">
+  <em>Full-Stack Developer, Problem Solver, and Curious Human</em>
+</p>
+
+<p align="center">
+  <a href="mailto:promisecharles.dev@gmail.com"><img src="https://img.shields.io/badge/Email-promisecharles.dev%40gmail.com-red?style=flat-square" /></a>
+  <a href="https://github.com/Myspheet"><img src="https://img.shields.io/github/followers/Myspheet?label=Followers&style=flat-square" /></a>
+  <a href="https://hashnode.com/@promiseo"><img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/promiseoghenevwefe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />  
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=600&color=4ECDC4&center=true&vCenter=true&width=600&lines=Clean+Code+%7C+Deep+Thinking+%7C+Curious+Mind;Building+Software+That+Feels+Human;Learning%2C+Breaking%2C+and+Rebuilding+Better" alt="Typing SVG" />
 </div>
 
-### Hello there 👋, I'm Promise Oghenevwefe
+---
 
-#### A Creative and forward-thinking Web Application Developer experienced at creating cutting edge web applications with complex requirements and versatile toolset. Skilled project manager, team leader and analytical problem-solver with top-notch organisational and project management skills. Passionate about mentoring and writing clean code with well managed technical debt.
+### 🧠 About Me
+
+Back in **2015**, I wrote my first few lines of code — and got instantly hooked. What began as pure curiosity turned into a lifelong obsession with building things that actually make people’s lives better.
+
+Today, I’m a **Full-Stack Developer** who thrives on:
+- architecting clean and scalable backend systems with **Go**, **Node.js**, and **NestJS**  
+- crafting smooth and intuitive frontends with **React** and **Next.js**  
+- optimizing performance, improving developer experience, and making complex things feel simple  
+
+I’m the kind of developer who enjoys diving deep into logic, but never forgets that software should **feel human**. I believe good code isn’t just functional — it’s elegant, intentional, and meaningful.
+
+When I’m not deep in a terminal or exploring new tech ideas, you’ll probably find me:
+- 🎮 Playing **Call of Duty Mobile**
+- 📚 Reading about **self-improvement or tech**
+- 💡 Dreaming up product ideas
+- 🎬 Relaxing or chatting with friends and family
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+### ⚡ Core Strengths
+
+- **Backend Expertise:** Strong command of **Go**, **Node.js**, and **Laravel**, with a focus on clean architecture and scalability  
+- **Database Design:** Experienced with **PostgreSQL**, **MongoDB**, **MySQL**, and **Prisma ORM**  
+- **Frontend Polish:** Proficient with **React**, **Next.js**, and **TailwindCSS** for fast, fluid interfaces  
+- **DevOps Savvy:** Familiar with **Docker**, **Cloudflare**, and **Google Cloud**  
+- **Collaborative Mindset:** Great communication, open to feedback, and always improving  
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Myspheet&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🧩 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myspheet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,laravel,postgres,mongodb,mysql,prisma,react,nextjs,tailwind,docker,gcp,cloudflare,git,postman&perline=8" />
+</p>
 
 ---
 
-### :writing_hand: Blog Posts :
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Javascript - Overview](https://promiseo.hashnode.dev/introduction-to-javascript-overview)
-- [Basic Concepts of Programming Languages - Overview](https://promiseo.hashnode.dev/basic-concepts-of-programming-languages-overview)
-- [Build a Guessing Game in Python](https://promiseo.hashnode.dev/build-a-guessing-game-in-python)
-- [My First Article](https://promiseo.hashnode.dev/my-first-article)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
-**Myspheet/Myspheet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hashnode.com/@promiseo">🧠 Read more on Hashnode</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Myspheet&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Myspheet&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myspheet&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ✨ Fun Facts About Me
+
+- I think **debugging** is like solving a detective mystery — frustrating but deeply satisfying.  
+- I’ve been coding since 2015 and still get excited about learning something new.  
+- I believe **clarity beats cleverness** — in both code and communication.  
+- My best ideas usually come at 2 AM when I should be asleep.  
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:promisecharles.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Myspheet"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://hashnode.com/@promiseo"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/promiseoghenevwefe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />  
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+</div>
+
+---
+
+<p align="center">
+  ⭐️ <em>“I don’t just build apps — I build experiences that make people feel something.”</em>
+</p>
