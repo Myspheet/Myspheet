@@ -1,7 +1,7 @@
 <!-- README.md for Promise Charles -->
 
 <h1 align="center">
-  👋 Hey, I'm <span style="color:#4ECDC4;">Promise Charles</span>
+  👋 Hey, I'm <span style="color:#4ECDC4;">Promise Oghenevwefe</span>
 </h1>
 
 <p align="center">
